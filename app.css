@@ -4,12 +4,35 @@
     box-sizing: border-box;
 }
 
-main {
-    background-color: #e4949c;
+body {
+    background-color: #e9a7ae;
+    font-family: Nunito sans-serif;
 }
 
+h2 {
+    letter-spacing: .2rem;
+    font-weight: 600;
+}
+
+h2 span {
+    color: rgb(233, 29, 73);
+}
+
+p {
+    padding: 1rem;
+    font-size: 1.1rem;
 
 .navbar {
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    font-size: 1.2rem;
+}
+
+    .navbar-brand {
+    font-size: 1.5rem;
+}
+
+#candyIcon {
+    width: 6rem;
+    height: auto;
 }
