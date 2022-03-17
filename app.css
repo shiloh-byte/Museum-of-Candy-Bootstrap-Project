@@ -25,13 +25,15 @@ p {
 .navbar {
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    font-size: 1.2rem;
+    font-size: 1.17rem;
 }
 
-    .navbar-brand {
-    font-size: 1.5rem;
+#logo {
+    font-size: 1.8rem;
+    font-weight: 600;
+    letter-spacing: .1rem;
 }
-
+    
 #candyIcon {
     width: 6rem;
     height: auto;
